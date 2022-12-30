@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "AgendaIF",
+    "slug": "AgendaIF",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
